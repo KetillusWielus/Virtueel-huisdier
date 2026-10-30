@@ -385,7 +385,7 @@ function draw() {
         textSize(20);
         fill("white");
         image(gameOverScreen2,0,0,600,600);
-        text("Your nuke got taken away. Bad ending",130,580);
+        text("POV: Your nuke got taken away. Bad ending",110,580);
       } else if (radiationVar >= 10000) {
         textSize(20);
         fill("white");
